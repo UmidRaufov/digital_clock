@@ -1,0 +1,11 @@
+body {
+    background-color: #001e38;
+    color: #e10b0b;
+    font-family: 'Futura', sans-serif;
+}
+
+.time {
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 0 0 10px #fc5555;
+}
